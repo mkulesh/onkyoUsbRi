@@ -12,21 +12,21 @@ The  adapter is based on  STM32F303 MCU. USB interface is implemented using FT32
 
 ## PCB
 
-<img src="https://raw.githubusercontent.com/mkulesh/onkyoUsbRi/main/images/pcb.jpg" align="center" height="800">
+<img src="https://raw.githubusercontent.com/mkulesh/onkyoUsbRi/main/images/pcb.jpg" align="center" height="600">
 
 ## Adapter
 
-<img src="https://raw.githubusercontent.com/mkulesh/onkyoUsbRi/main/images/device.jpg" align="center" height="800">
+<img src="https://raw.githubusercontent.com/mkulesh/onkyoUsbRi/main/images/device.jpg" align="center" height="600">
 
 ## Schematic
 
-<img src="https://raw.githubusercontent.com/mkulesh/onkyoUsbRi/main/images/schematic.png" align="center" height="800">
+<img src="https://raw.githubusercontent.com/mkulesh/onkyoUsbRi/main/images/schematic.png" align="center" height="600">
 
 ## Desktop App
 
 In order to control Onkyo via this adapter, [Enhanced Music Controller](https://github.com/mkulesh/onpc) shall be used:
 
-<img src="https://raw.githubusercontent.com/mkulesh/onkyoUsbRi/main/images/app.png" align="center" height="800">
+<img src="https://raw.githubusercontent.com/mkulesh/onkyoUsbRi/main/images/app.png" align="center" height="600">
 
 ## License
 
