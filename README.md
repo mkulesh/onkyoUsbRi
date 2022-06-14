@@ -28,6 +28,11 @@ In order to control Onkyo via this adapter, [Enhanced Music Controller](https://
 
 <img src="https://raw.githubusercontent.com/mkulesh/onkyoUsbRi/main/images/app.png" align="center" height="600">
 
+## Resources
+- https://github.com/docbender/Onkyo-RI
+- https://github.com/intelfx/onkyo-ri
+- http://fredboboss.free.fr/articles/onkyo_ri.php
+
 ## License
 
 This software is published under the *GNU General Public License, Version 3*
